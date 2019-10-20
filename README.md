@@ -1,7 +1,6 @@
 # softwar-project
 # Libraries:(numpy , sympy , matplotlib.pyplot)
-# Project subject: Molecular Orbital Theory (SMN)
-# In each Project's file (#) lines explain the category of each step & explain level of project.(BLUE=codes structure, PINK=category)
+# Project subject: Molecular Orbital Theory (MOT)
 
 Molecular Orbital Theory
 In this project, we investigate carbon molecule in different structure ( Benzene, BuckyBall, Butadiene, Naphthalene, Toluene)
