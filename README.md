@@ -4,6 +4,14 @@
 
 Molecular Orbital Theory
 
+''' import numpy as np
+from numpy import linalg as lig
+import sympy as smp
+import matplotlib.pyplot as plt
+from operator import itemgetter
+import collections
+'''
+
 In this project, we investigate carbon molecule in different structure ( Benzene, BuckyBall, Butadiene, Naphthalene, Toluene)
 Huckel(H) theory for pi-molecular orbitals.
 
