@@ -1,3 +1,10 @@
+## Run the code
+- At first, the software-project-git repository contains an explanation and example of the program as useful to realize the run processing.
+Then, it becomes easy to test and calculate for other materials inside the bonds repository.
+So, for a complete project, first run the proect_1 and 2; Then, add the armchair, Zigzag and nanotube; At the ends, by running each mater, the electron bonds will be shown. Besides, the graph shows the schematic of carbon positions.
+Below is the main object of this project notes.
+
+
 # softwar-project
 # Libraries:(numpy , sympy , matplotlib.pyplot)
 # Project subject: Molecular Orbital Theory (MOT)
